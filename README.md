@@ -10,8 +10,8 @@ Graph pooling that summaries the information in a large graph into a compact for
 ### Citation
 Please cite our paper if you use this code or datasets in your own work:
 >@inproceedings{pang2021graph,  
->  &nbsp; title={Graph Pooling via Coarsened Graph Infomax},  
->  &nbsp; author={Pang, Yunsheng and Zhao, Yunxiang and Li, Dongsheng},  
->  &nbsp; booktitle={ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)},  
->  &nbsp; year={2021}  
+>  &ensp; title={Graph Pooling via Coarsened Graph Infomax},  
+>  &ensp; author={Pang, Yunsheng and Zhao, Yunxiang and Li, Dongsheng},  
+>  &ensp; booktitle={ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)},  
+>  &ensp; year={2021}  
 >}
